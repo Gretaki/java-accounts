@@ -1,0 +1,4 @@
+"ACCOUNTNUMBER","AMOUNT","BENEFICIARY","COMMENT","CURRENCY","ID","OPERATIONDATE"
+"12345","10.0"," The beneficiary"," This is a comment","","15","2022-06-03T09:03:24.340Z"
+"12345","10.0"," The beneficiary"," This is a comment","","14","2022-06-03T00:00:00.000Z"
+"12345","10.0"," The beneficiary"," This is a comment","EUR","16","2022-06-03T09:03:24.340Z"
